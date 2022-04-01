@@ -24,6 +24,8 @@ public class Hif_Q03 {
         } else if (bmi>30){
             System.out.println("vucut kitle endeksiniz :"+bmi+" "+"Obezsiniz");
 
+        //test
         }
+
     }
 }
