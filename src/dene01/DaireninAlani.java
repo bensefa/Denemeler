@@ -25,7 +25,7 @@ public class DaireninAlani {
     public static double alanHesapla(int yaricap) {
         return Math.PI*yaricap*yaricap;
     }
-    }
+    }//git
 
 
 
